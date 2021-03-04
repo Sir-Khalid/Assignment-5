@@ -1,9 +1,12 @@
+
 body {
- background: rgb(49, 116, 199);
+ background: lightblue;
 }
+
 .fourth {
  display: block;
  right: 0;
  position: absolute;
  top: 60px;
 }
+
